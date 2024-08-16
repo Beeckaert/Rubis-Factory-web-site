@@ -1,0 +1,61 @@
+/* _______________Developpé by systeme rubis_______________ */
+
+/* ___________Fixed.css___________ */
+
+/* ___________Main Parent___________ */
+
+[data-Fixed ="Parent"]{
+
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+}
+
+/* ___________Head Band___________ */
+
+[data-Fixed ="HeadBand"]{
+
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    top: 20px;
+    left: 0px;
+
+}
+
+/* ___________Content Head Band___________ */
+
+[data-Fixed ="LogosSpace"]{
+
+    width: 350px;
+    height: 90px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+
+}
+
+/* ___________Content Logos space (Head Band)___________ */
+
+[data-Fixed ="MainLogos"]{
+
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+
+}
+
+[data-Fixed ="MainTitle"]{
+
+    font-size: 32px;
+    color: #e84252;
+    position: fixed;
+    top: 40px;
+    left: calc(90px + 20px + 10px);
+
+}

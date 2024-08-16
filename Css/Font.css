@@ -1,0 +1,139 @@
+/* _______________Developpé by systeme rubis_______________ */
+
+/* ___________Font.css___________ */
+
+/* _________________________Import Font Google_________________________ */
+
+/* Roboto */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* Orbitron */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+/* Roboto */
+
+/* _________________________Roboto_________________________ */
+
+/* _____Roboto classic_____ */
+
+/* thin */
+[data-RubisFactory_Roboto ="thin"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+/* light */
+[data-RubisFactory_Roboto ="light"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+/* regular */
+[data-RubisFactory_Roboto ="regular"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+/* medium */
+[data-RubisFactory_Roboto ="medium"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+
+/* bold */
+[data-RubisFactory_Roboto ="bold"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+/* black */
+[data-RubisFactory_Roboto ="black"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+/* _____Roboto Italic_____ */
+
+/* thin */
+[data-RubisFactory_Roboto ="thin-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+/* light */
+[data-RubisFactory_Roboto ="light-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+/* regular */
+[data-RubisFactory_Roboto ="regular-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+/* medium */
+[data-RubisFactory_Roboto ="medium-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+/* bold */
+[data-RubisFactory_Roboto ="bold-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+/* black */
+[data-RubisFactory_Roboto ="black-italic"]{
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+
+}
+
+/* _________________________Orbitron_________________________ */
+
+[data-RubisFactory_Orbitron]{
+
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}

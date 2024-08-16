@@ -1,0 +1,20 @@
+/* _______________Developpé by systeme rubis_______________ */
+
+/* ___________Main.css___________ */
+
+/* Root Init varable */
+
+:root {
+
+    /* ___________Variable Global___________ */
+    --RubisF_DafaulfBG_Left: #2c2929;
+    --RubisF_DafaulfBG_Right: #050202;
+
+}
+
+body{
+
+    background: linear-gradient(var(--RubisF_DafaulfBG_Left), var(--RubisF_DafaulfBG_Right));
+
+}
+

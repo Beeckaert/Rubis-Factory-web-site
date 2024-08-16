@@ -1,0 +1,17 @@
+/* _______________Developpé by systeme rubis_______________ */
+
+/* ___________Constructor.css___________ */
+
+[data-Constructor ="Parent"]{
+
+    text-align: center;
+
+}
+
+/* centrer dans le parent Horizontal*/
+
+[data-Constructor ="Enfants"]{
+
+    display: inline-block;
+
+}

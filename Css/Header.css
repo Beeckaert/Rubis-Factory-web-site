@@ -1,0 +1,28 @@
+/* _______________Developpé by systeme rubis_______________ */
+
+/* ___________Header.css___________ */
+
+/* ___________Base Data Parents___________ */
+
+[data-Header ="MainParent"]{
+
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+
+}
+
+[data-Header ="CutHeight50"]{
+
+    width: 100%;
+    height: 50%;
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+
+/* ___________Logos Spaces___________ */
+
+/* ___________Custom ID___________ */
